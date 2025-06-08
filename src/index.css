@@ -1,0 +1,23 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+img {
+  width: 100%;
+  object-fit: cover;
+}
+
+button {
+  border: none;
+  background: none;
+  cursor: pointer;
+}
+
+body {
+  font-family: "Poppins", sans-serif;
+  max-width: 1440px;
+  margin: auto;
+  max-height: 1200px;
+}
